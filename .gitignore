@@ -12,4 +12,4 @@
 hs_err_pid*
 
 # Dont ignore the libs
-!lib
+!lib/*
